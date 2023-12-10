@@ -1,6 +1,9 @@
-# Figma 繁體中文翻譯
+<img src="./extension/img/icon-128.png" align="left" width="180px"/>
 
-![image](extension/img/icon-128.png)
+# Figma 繁體中文翻譯
+[![](https://img.shields.io/github/license/SiongSng/figma-taiwan-translation.svg)](./LICENSE)
+[![](https://github.com/NoeEdge0120/figma-taiwan-translation/actions/workflows/build_alpha.yaml/badge.svg?branch=master)](https://github.com/NoeEdge0120/figma-taiwan-translation/actions/workflows/build_alpha.yaml)
+<p>&nbsp;</p>
 
 ## 📖 簡介
 
@@ -11,13 +14,12 @@
 安裝後記得**重新整理 Figma 頁面**翻譯才會生效喔！  
 倘若翻譯仍未生效請確認是否有給予本擴充套件足夠的權限，若仍無效歡迎到[這裡](https://github.com/SiongSng/figma-taiwan-translation/discussions)，新增討論串，我會協助您進行排錯。
 
-
 ## 簡易安裝
 
 ### Edge 附加元件商店
 等待審核中
-### Firefox 附加元件站
 
+### Firefox 附加元件站
 請在 Firefox 中點擊下方連結，並按下「新增至 Firefox」的藍色按鈕就大功告成啦！  
 安裝後記得**重新整理 Figma 頁面**翻譯才會生效喔！  
 https://addons.mozilla.org/zh-TW/firefox/addon/figma-taiwan-translation/
@@ -26,9 +28,7 @@ https://addons.mozilla.org/zh-TW/firefox/addon/figma-taiwan-translation/
 <img src="screenshot/FigmaTW-screenshot-1.png" width="850px"/>
 <img src="screenshot/FigmaTW-screenshot-2.png" width="850px"/>
 
-
 ## 手動安裝
-
 ### 基於 Chromium 的瀏覽器（Chrome、Edge）
 請先下載擴充套件檔案：[點我下載](https://github.com/SiongSng/figma-taiwan-translation/releases/latest/download/figma-tw-translation-chromium.zip)  
 
@@ -65,7 +65,6 @@ https://addons.mozilla.org/zh-TW/firefox/addon/figma-taiwan-translation/
 請至本擴充套件的[討論區](https://github.com/SiongSng/figma-taiwan-translation/discussions)新增貼文，並提供相關資訊。
 
 ## 🎓 授權條款
-
 The source code of this application is released under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html). For more details, please refer to the [LICENSE](LICENSE) file.
 
 ---
